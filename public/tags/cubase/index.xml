@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cubase on KAI WIKI</title>
-    <link>http://localhost:1313/kai_wiki/tags/cubase/</link>
+    <link>//localhost:1313/tags/cubase/</link>
     <description>Recent content in Cubase on KAI WIKI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
     <webMaster>kai10050621@gmail.com (KAI)</webMaster>
     
-    <lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/kai_wiki/tags/cubase/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/cubase/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cubase 15 全面解析：全新功能、AI 分軌、強化合成器與超直覺工作流程</title>
-      <link>http://localhost:1313/kai_wiki/posts/cubase15/</link>
+      <link>//localhost:1313/posts/cubase15/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/cubase15/</guid>
+      <guid>//localhost:1313/posts/cubase15/</guid>
       <description></description>
       
     </item>

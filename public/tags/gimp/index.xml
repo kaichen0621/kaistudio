@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GIMP on KAI WIKI</title>
-    <link>http://localhost:1313/kai_wiki/tags/gimp/</link>
+    <link>//localhost:1313/tags/gimp/</link>
     <description>Recent content in GIMP on KAI WIKI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
     <webMaster>kai10050621@gmail.com (KAI)</webMaster>
     
-    <lastBuildDate>Sun, 14 Dec 2025 09:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/kai_wiki/tags/gimp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Dec 2025 09:00:00 +0800</lastBuildDate><atom:link href="//localhost:1313/tags/gimp/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>新竹高中曾聖超老師：資訊科技概論</title>
-      <link>http://localhost:1313/kai_wiki/posts/731pc/</link>
+      <link>//localhost:1313/posts/731pc/</link>
       <pubDate>Sun, 14 Dec 2025 09:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/731pc/</guid>
+      <guid>//localhost:1313/posts/731pc/</guid>
       <description></description>
       
     </item>

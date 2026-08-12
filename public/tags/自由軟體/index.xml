@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>自由軟體 on KAI WIKI</title>
-    <link>http://localhost:1313/kai_wiki/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/</link>
+    <link>//localhost:1313/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/</link>
     <description>Recent content in 自由軟體 on KAI WIKI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
     <webMaster>kai10050621@gmail.com (KAI)</webMaster>
     
-    <lastBuildDate>Tue, 09 Sep 2025 19:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/kai_wiki/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Sep 2025 19:00:00 +0800</lastBuildDate><atom:link href="//localhost:1313/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>抓片神器＋轉檔全能：yt-dlp 與 FFmpeg 終極應用！</title>
-      <link>http://localhost:1313/kai_wiki/posts/yt-dlp/</link>
+      <link>//localhost:1313/posts/yt-dlp/</link>
       <pubDate>Tue, 09 Sep 2025 19:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/yt-dlp/</guid>
+      <guid>//localhost:1313/posts/yt-dlp/</guid>
       <description></description>
       
     </item>

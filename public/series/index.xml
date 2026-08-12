@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on KAI WIKI</title>
-    <link>http://localhost:1313/kai_wiki/series/</link>
+    <link>//localhost:1313/series/</link>
     <description>Recent content in Series on KAI WIKI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
     <webMaster>kai10050621@gmail.com (KAI)</webMaster>
     
-    <atom:link href="http://localhost:1313/kai_wiki/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI PC on KAI WIKI</title>
-    <link>http://localhost:1313/kai_wiki/tags/ai-pc/</link>
+    <link>//localhost:1313/tags/ai-pc/</link>
     <description>Recent content in AI PC on KAI WIKI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
     <webMaster>kai10050621@gmail.com (KAI)</webMaster>
     
-    <lastBuildDate>Mon, 24 Nov 2025 08:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/kai_wiki/tags/ai-pc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Nov 2025 08:00:00 +0800</lastBuildDate><atom:link href="//localhost:1313/tags/ai-pc/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>電腦新聞新鮮報 (2025年11月)</title>
-      <link>http://localhost:1313/kai_wiki/posts/news/11technews/</link>
+      <link>//localhost:1313/posts/news/11technews/</link>
       <pubDate>Mon, 24 Nov 2025 08:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/news/11technews/</guid>
+      <guid>//localhost:1313/posts/news/11technews/</guid>
       <description></description>
       
     </item>

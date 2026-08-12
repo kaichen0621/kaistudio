@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>譜 on KAI WIKI</title>
-    <link>http://localhost:1313/kai_wiki/tags/%E8%AD%9C/</link>
+    <link>//localhost:1313/tags/%E8%AD%9C/</link>
     <description>Recent content in 譜 on KAI WIKI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
     <webMaster>kai10050621@gmail.com (KAI)</webMaster>
     
-    <lastBuildDate>Thu, 11 Dec 2025 08:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/kai_wiki/tags/%E8%AD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Dec 2025 08:00:00 +0800</lastBuildDate><atom:link href="//localhost:1313/tags/%E8%AD%9C/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>張育瑞大師 feat. 鋼琴譜</title>
-      <link>http://localhost:1313/kai_wiki/posts/lisitrisk/</link>
+      <link>//localhost:1313/posts/lisitrisk/</link>
       <pubDate>Thu, 11 Dec 2025 08:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/lisitrisk/</guid>
+      <guid>//localhost:1313/posts/lisitrisk/</guid>
       <description></description>
       
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DaVinci Resolve on KAI WIKI</title>
-    <link>http://localhost:1313/kai_wiki/tags/davinci-resolve/</link>
+    <link>//localhost:1313/tags/davinci-resolve/</link>
     <description>Recent content in DaVinci Resolve on KAI WIKI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
     <webMaster>kai10050621@gmail.com (KAI)</webMaster>
     
-    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/kai_wiki/tags/davinci-resolve/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0800</lastBuildDate><atom:link href="//localhost:1313/tags/davinci-resolve/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>DaVinci Resolve 重榜更新！追求時代</title>
-      <link>http://localhost:1313/kai_wiki/posts/davinciupdate20/</link>
+      <link>//localhost:1313/posts/davinciupdate20/</link>
       <pubDate>Thu, 11 Sep 2025 00:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/davinciupdate20/</guid>
+      <guid>//localhost:1313/posts/davinciupdate20/</guid>
       <description></description>
       
     </item>

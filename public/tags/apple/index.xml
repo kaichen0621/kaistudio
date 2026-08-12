@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apple on KAI WIKI</title>
-    <link>http://localhost:1313/kai_wiki/tags/apple/</link>
+    <link>//localhost:1313/tags/apple/</link>
     <description>Recent content in Apple on KAI WIKI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
     <webMaster>kai10050621@gmail.com (KAI)</webMaster>
     
-    <lastBuildDate>Mon, 08 Dec 2025 09:30:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/kai_wiki/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Dec 2025 09:30:00 +0800</lastBuildDate><atom:link href="//localhost:1313/tags/apple/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>macOS 26.2 Tahoe 正式版：功能總覽與你該注意的重點</title>
-      <link>http://localhost:1313/kai_wiki/posts/macos26.2rc/</link>
+      <link>//localhost:1313/posts/macos26.2rc/</link>
       <pubDate>Mon, 08 Dec 2025 09:30:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/macos26.2rc/</guid>
+      <guid>//localhost:1313/posts/macos26.2rc/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>iPhone 17 系列評測：升級亮點、價格與選購攻略 🚀</title>
-      <link>http://localhost:1313/kai_wiki/posts/applenew/</link>
+      <link>//localhost:1313/posts/applenew/</link>
       <pubDate>Thu, 18 Sep 2025 15:15:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/applenew/</guid>
+      <guid>//localhost:1313/posts/applenew/</guid>
       <description></description>
       
     </item>

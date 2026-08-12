@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dorico on KAI WIKI</title>
-    <link>http://localhost:1313/kai_wiki/tags/dorico/</link>
+    <link>//localhost:1313/tags/dorico/</link>
     <description>Recent content in Dorico on KAI WIKI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
     <webMaster>kai10050621@gmail.com (KAI)</webMaster>
     
-    <lastBuildDate>Thu, 28 Aug 2025 18:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/kai_wiki/tags/dorico/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Aug 2025 18:00:00 +0800</lastBuildDate><atom:link href="//localhost:1313/tags/dorico/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>一個時代的終結：為什麽 Finale 選擇了下台一鞠躬？</title>
-      <link>http://localhost:1313/kai_wiki/posts/finale/</link>
+      <link>//localhost:1313/posts/finale/</link>
       <pubDate>Thu, 28 Aug 2025 18:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/finale/</guid>
+      <guid>//localhost:1313/posts/finale/</guid>
       <description></description>
       
     </item>

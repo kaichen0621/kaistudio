@@ -2,201 +2,201 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on KAI WIKI</title>
-    <link>http://localhost:1313/kai_wiki/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on KAI WIKI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
     <webMaster>kai10050621@gmail.com (KAI)</webMaster>
     
-    <lastBuildDate>Sun, 14 Dec 2025 09:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/kai_wiki/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Dec 2025 09:00:00 +0800</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>新竹高中曾聖超老師：資訊科技概論</title>
-      <link>http://localhost:1313/kai_wiki/posts/731pc/</link>
+      <link>//localhost:1313/posts/731pc/</link>
       <pubDate>Sun, 14 Dec 2025 09:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/731pc/</guid>
+      <guid>//localhost:1313/posts/731pc/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>張育瑞大師 feat. 鋼琴譜</title>
-      <link>http://localhost:1313/kai_wiki/posts/lisitrisk/</link>
+      <link>//localhost:1313/posts/lisitrisk/</link>
       <pubDate>Thu, 11 Dec 2025 08:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/lisitrisk/</guid>
+      <guid>//localhost:1313/posts/lisitrisk/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>macOS 26.2 Tahoe 正式版：功能總覽與你該注意的重點</title>
-      <link>http://localhost:1313/kai_wiki/posts/macos26.2rc/</link>
+      <link>//localhost:1313/posts/macos26.2rc/</link>
       <pubDate>Mon, 08 Dec 2025 09:30:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/macos26.2rc/</guid>
+      <guid>//localhost:1313/posts/macos26.2rc/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cubase 15 全面解析：全新功能、AI 分軌、強化合成器與超直覺工作流程</title>
-      <link>http://localhost:1313/kai_wiki/posts/cubase15/</link>
+      <link>//localhost:1313/posts/cubase15/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/cubase15/</guid>
+      <guid>//localhost:1313/posts/cubase15/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>電腦新聞新鮮報 (2025年11月)</title>
-      <link>http://localhost:1313/kai_wiki/posts/news/11technews/</link>
+      <link>//localhost:1313/posts/news/11technews/</link>
       <pubDate>Mon, 24 Nov 2025 08:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/news/11technews/</guid>
+      <guid>//localhost:1313/posts/news/11technews/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>飢餓遊戲 EP78</title>
-      <link>http://localhost:1313/kai_wiki/posts/hunger78/</link>
+      <link>//localhost:1313/posts/hunger78/</link>
       <pubDate>Wed, 19 Nov 2025 15:23:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/hunger78/</guid>
+      <guid>//localhost:1313/posts/hunger78/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>電腦新聞新鮮報 (2025年10月)</title>
-      <link>http://localhost:1313/kai_wiki/posts/news/10technews/</link>
+      <link>//localhost:1313/posts/news/10technews/</link>
       <pubDate>Fri, 10 Oct 2025 08:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/news/10technews/</guid>
+      <guid>//localhost:1313/posts/news/10technews/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>有感筆電超激推遊戲大全</title>
-      <link>http://localhost:1313/kai_wiki/posts/robloxnew/</link>
+      <link>//localhost:1313/posts/robloxnew/</link>
       <pubDate>Sun, 21 Sep 2025 15:02:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/robloxnew/</guid>
+      <guid>//localhost:1313/posts/robloxnew/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>iPhone 17 系列評測：升級亮點、價格與選購攻略 🚀</title>
-      <link>http://localhost:1313/kai_wiki/posts/applenew/</link>
+      <link>//localhost:1313/posts/applenew/</link>
       <pubDate>Thu, 18 Sep 2025 15:15:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/applenew/</guid>
+      <guid>//localhost:1313/posts/applenew/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>魏巍超愛Roblox最強遊戲</title>
-      <link>http://localhost:1313/kai_wiki/posts/r/</link>
+      <link>//localhost:1313/posts/r/</link>
       <pubDate>Sat, 13 Sep 2025 23:20:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/r/</guid>
+      <guid>//localhost:1313/posts/r/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Roblox 跑酷與派對小遊戲推薦 🎮</title>
-      <link>http://localhost:1313/kai_wiki/posts/roblox/robloxobbyparty/</link>
+      <link>//localhost:1313/posts/roblox/robloxobbyparty/</link>
       <pubDate>Sat, 13 Sep 2025 11:30:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/roblox/robloxobbyparty/</guid>
+      <guid>//localhost:1313/posts/roblox/robloxobbyparty/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Roblox 遊戲推薦大全</title>
-      <link>http://localhost:1313/kai_wiki/posts/robloxgame/</link>
+      <link>//localhost:1313/posts/robloxgame/</link>
       <pubDate>Thu, 11 Sep 2025 18:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/robloxgame/</guid>
+      <guid>//localhost:1313/posts/robloxgame/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Roblox 終極遊戲聖經：220款精選遊戲</title>
-      <link>http://localhost:1313/kai_wiki/posts/roblox/roblox/</link>
+      <link>//localhost:1313/posts/roblox/roblox/</link>
       <pubDate>Thu, 11 Sep 2025 11:30:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/roblox/roblox/</guid>
+      <guid>//localhost:1313/posts/roblox/roblox/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Roblox 終極遊戲聖經：300ˇ多款精選遊戲</title>
-      <link>http://localhost:1313/kai_wiki/posts/roblox/300robloxgames/</link>
+      <link>//localhost:1313/posts/roblox/300robloxgames/</link>
       <pubDate>Thu, 11 Sep 2025 11:30:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/roblox/300robloxgames/</guid>
+      <guid>//localhost:1313/posts/roblox/300robloxgames/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DaVinci Resolve 重榜更新！追求時代</title>
-      <link>http://localhost:1313/kai_wiki/posts/davinciupdate20/</link>
+      <link>//localhost:1313/posts/davinciupdate20/</link>
       <pubDate>Thu, 11 Sep 2025 00:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/davinciupdate20/</guid>
+      <guid>//localhost:1313/posts/davinciupdate20/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>抓片神器＋轉檔全能：yt-dlp 與 FFmpeg 終極應用！</title>
-      <link>http://localhost:1313/kai_wiki/posts/yt-dlp/</link>
+      <link>//localhost:1313/posts/yt-dlp/</link>
       <pubDate>Tue, 09 Sep 2025 19:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/yt-dlp/</guid>
+      <guid>//localhost:1313/posts/yt-dlp/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>電腦新聞新鮮報 (2025年9月)</title>
-      <link>http://localhost:1313/kai_wiki/posts/news/9technews/</link>
+      <link>//localhost:1313/posts/news/9technews/</link>
       <pubDate>Mon, 08 Sep 2025 15:30:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/news/9technews/</guid>
+      <guid>//localhost:1313/posts/news/9technews/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>MuseScore 超簡單排版教學</title>
-      <link>http://localhost:1313/kai_wiki/posts/musescorelayout/</link>
+      <link>//localhost:1313/posts/musescorelayout/</link>
       <pubDate>Sun, 07 Sep 2025 12:33:04 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/musescorelayout/</guid>
+      <guid>//localhost:1313/posts/musescorelayout/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>一個時代的終結：為什麽 Finale 選擇了下台一鞠躬？</title>
-      <link>http://localhost:1313/kai_wiki/posts/finale/</link>
+      <link>//localhost:1313/posts/finale/</link>
       <pubDate>Thu, 28 Aug 2025 18:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/finale/</guid>
+      <guid>//localhost:1313/posts/finale/</guid>
       <description></description>
       
     </item>
