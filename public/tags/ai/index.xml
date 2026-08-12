@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI on KAI WIKI</title>
+    <title>AI on KAI STUDIO</title>
     <link>//localhost:1313/tags/ai/</link>
-    <description>Recent content in AI on KAI WIKI</description>
+    <description>Recent content in AI on KAI STUDIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>

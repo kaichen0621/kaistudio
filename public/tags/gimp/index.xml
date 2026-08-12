@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GIMP on KAI WIKI</title>
+    <title>GIMP on KAI STUDIO</title>
     <link>//localhost:1313/tags/gimp/</link>
-    <description>Recent content in GIMP on KAI WIKI</description>
+    <description>Recent content in GIMP on KAI STUDIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
