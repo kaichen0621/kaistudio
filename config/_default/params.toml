@@ -1,6 +1,6 @@
 # -- Theme Options --
 
-colorScheme = "fire"
+colorScheme = "default"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 
