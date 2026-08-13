@@ -25,11 +25,6 @@
   pageRef = "/about.md"
   weight = 30
 
-[[main]]
-  name = "55專區"
-  pageRef = "/55.md"
-  weight = 40
-
 
 
 # 若要子選單：
