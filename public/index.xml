@@ -5,7 +5,7 @@
     <link>//localhost:1313/</link>
     <description>Recent content on KAI STUDIO</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
+    <language>zh-TW</language>
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
     <webMaster>kai10050621@gmail.com (KAI)</webMaster>
     
@@ -17,6 +17,16 @@
       <pubDate>Wed, 12 Aug 2026 23:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
       <guid>//localhost:1313/posts/back/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🖥️ KAI macOS 電腦裡有什麼</title>
+      <link>//localhost:1313/app/</link>
+      <pubDate>Mon, 29 Jun 2026 08:00:00 +0800</pubDate>
+      <author>kai10050621@gmail.com (KAI)</author>
+      <guid>//localhost:1313/app/</guid>
       <description></description>
       
     </item>

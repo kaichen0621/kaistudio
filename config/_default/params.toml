@@ -123,8 +123,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showTermCount = true
   showHero = false
   showBreadcrumbs = false
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showTableOfContents = true
   cardView = false
 

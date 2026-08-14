@@ -1,6 +1,6 @@
 disabled = false
-languageCode = "zh-tw"
-languageName = "繁體中文"
+locale = "zh-TW"
+label = "繁體中文"
 weight = 1
 title = "KAI STUDIO"
 
@@ -9,7 +9,7 @@ title = "KAI STUDIO"
   displayName = "ZH"
   isoCode = "zh"
   dateFormat = "2006/01/02"
-  # logo = "/kaistudio.jpg"
+  logo = "favicon-256.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"

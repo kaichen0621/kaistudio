@@ -40,7 +40,7 @@
         {{- with replace .Site.Params.copyright "{ year }" now.Year }}
           {{ . | markdownify }}
         {{- else }}
-          &copy;
+          copy;
           {{ now.Format "2006" }}
           {{ .Site.Params.Author.name | markdownify }}
         {{- end }}
@@ -50,13 +50,10 @@
     {{/* Theme attribution */}}
     {{ if .Site.Params.footer.showThemeAttribution | default true }}
       <p class="text-xs text-neutral-500 dark:text-neutral-400">
-        {{ $hugo := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-          href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>`
-        }}
         {{ $blowfish := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-          href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>`
+          href="https://kaiblog.is-a.dev/" target="_blank" rel="noopener noreferrer">KAI</a>`
         }}
-        {{ i18n "footer.powered_by" (dict "Hugo" $hugo "Theme" $blowfish) | safeHTML }}
+        {{ i18n "footer.powered_by" (dict "Theme" $blowfish) | safeHTML }}
       </p>
     {{ end }}
   </div>

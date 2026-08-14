@@ -1,4 +1,9 @@
 # -- 主選單 --
+[[main]]
+  name = "應用程式"
+  pageRef = "/app.md"
+  weight = 5
+
 
 [[main]]
   name = "近況"
