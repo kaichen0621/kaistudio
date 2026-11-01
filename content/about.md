@@ -1,8 +1,8 @@
-+++
-title = "關於我"
-date = '2026-11-01T10:30:00+08:00'
-draft = false
-+++
+---
+title: 關於我
+date: 2026-11-01T10:30:00+08:00
+draft: false
+---
 
 ## 歡迎來到 KAI BLOG `/about`
 

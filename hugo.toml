@@ -1,41 +1,109 @@
 baseURL = "https://kaistudio-moekcwcvx-kai980621s-projects.vercel.app/"
+locale = "zh-tw"
+defaultContentLanguage = "zh-tw"
 title = "KAI STUDIO"
 theme = "PaperMod"
-locale = "zh-TW"
 
+enableInlineShortcodes = true
+enableEmoji = true
 enableRobotsTXT = true
+hasCJKLanguage = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+paginate = 15
+summaryLength = 140
 
-[params]
-    env = "production"
-    ShowToc = true          # 在文章顯示目錄
-    TocOpen = true          # 目錄預設展開
-    ShowPostNavLinks = true # 顯示前後篇文章導覽
-    ShowReadingTime = true
-    ShowCodeCopyButtons = true
+[minify]
+  minifyOutput = true
 
-    [params.homeInfoParams]
-        Title = "歡迎來到 KAI STUDIO"
-        Content = "往下滑看看吧"
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
-    [[params.socialIcons]]
-        name = "github"
-        url = "https://github.com/kaichen0621"
-    [[params.socialIcons]]
-        name = "youtube"
-        url = "https://www.youtube.com/@kaistudio-621"
+# 自定義文章永久連結格式為 `/:title/`
+[permalinks]
+  post = "/:title/"
+
 [menu]
+  [[menu.main]]
+    identifier = "search"
+    name = "搜索"
+    url = "search"
+    weight = 10
+  [[menu.main]]
+    identifier = "tags"
+    name = "標籤"
+    url = "/tags/"
+    weight = 20
   [[menu.main]]
     identifier = "about"
     name = "關於我"
     url = "/about/"
-    weight = 10
-  [[menu.main]]
-    identifier = "categories"
-    name = "分類"
-    url = "/categories/"
-    weight = 20
+    weight = 30
+[params]
+  env = "production"
+  description = "KAI STUDIO 官方Youtube 筆記資源等詳細資訊"
+  author = "Kai"
+  defaultTheme = "auto"
+  ShowCodeCopyButtons = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowWordCounts = true
+  ShowLastMod = true
+  ShowToc = true
+  TocOpen = true
+  comments = true
 
+  [params.homeInfoParams]
+    Title = "歡迎來到 KAI STUDIO"
+    Content = """
+往下滑看看吧
+**2026.10**
+"""
+
+  # 網站左上角標籤配置
+  [params.label]
+    text = "KAI STUDIO"
+    icon = "/img/KAI_LOGO_B.png"
+    iconHeight = 35
+
+  # 社交圖標
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/kaichen0621"
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://www.youtube.com/@kaistudio-621"
+  [[params.socialIcons]]
+    name = "rss"
+    url = "index.xml"
+
+  # 封面顯示策略
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = true
+
+  # 搜尋配置 (Fuse.js)
+  [params.fuseOpts]
+    keys = ["title", "permalink", "summary"]
+
+  # 頁腳版權年份 (修正為整數)
+  StartYear = 2026
+  EndYear = 2026
+  [params.assets]
+      favicon = "/img/KAI_LOGO_B.png"
+      favicon16x16 = "/img/KAI_LOGO_B.png"
+      favicon32x32 = "/img/KAI_LOGO_B.png"
+
+# 允許在 Markdown 中使用原始 HTML
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+# 添加 series（系列）與 tag 作為分類方式
+[taxonomies]
+  tag = "tags"
+  series = "series"
