@@ -10,3 +10,4 @@ TocOpen: true
 ### 11 月
 
 - 11.01 - [第一篇文章](/posts/my-first-post/)
+- 11.02 - [連結](/posts/link/)
