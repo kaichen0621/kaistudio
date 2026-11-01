@@ -1,0 +1,41 @@
+baseURL = "/"
+title = "KAI STUDIO"
+theme = "PaperMod"
+locale = "zh-TW"
+
+enableRobotsTXT = true
+
+[params]
+    env = "production"
+    ShowToc = true          # 在文章顯示目錄
+    TocOpen = true          # 目錄預設展開
+    ShowPostNavLinks = true # 顯示前後篇文章導覽
+    ShowReadingTime = true
+    ShowCodeCopyButtons = true
+
+    [params.homeInfoParams]
+        Title = "歡迎來到 KAI STUDIO"
+        Content = "往下滑看看吧"
+
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/kaichen0621"
+    [[params.socialIcons]]
+        name = "youtube"
+        url = "https://www.youtube.com/@kaistudio-621"
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "關於我"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "categories"
+    name = "分類"
+    url = "/categories/"
+    weight = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
