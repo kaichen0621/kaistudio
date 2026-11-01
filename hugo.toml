@@ -30,6 +30,11 @@ summaryLength = 140
     name = "搜索"
     url = "search"
     weight = 10
+    [[menu.main]]
+      identifier = "archives"
+      name = "文章列表"
+      url = "archives"
+      weight = 5
   [[menu.main]]
     identifier = "tags"
     name = "標籤"
@@ -41,6 +46,7 @@ summaryLength = 140
     url = "/about/"
     weight = 30
 [params]
+
   env = "production"
   description = "KAI STUDIO 官方Youtube 筆記資源等詳細資訊"
   author = "Kai"
