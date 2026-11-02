@@ -16,6 +16,7 @@ draft: false
 希望你能在這裡找到有趣的內容，也歡迎寫 Email 交流。
 網站持續更新中，記得回來看看最新的分享！
 
+我的 Email : kaigithub0621@gmail.com
  
 Discord群組： https://discord.gg/ze9rM8pEPy   
 播放清單：   
